@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anzen7
 - 👀 I’m interested in making a game I've always wanted to play.
-- 🌱 I’m currently learning how to use Unity.
-- 💞️ I’m looking to collaborate on Networking and how to use MySql.
+- 🌱 I’m currently building projects.
+- 💞️ I’m looking to collaborate on Networking and build large complex systems.
 - 📫 How to reach me, "Not sure just yet :/"
 
 <!---
